@@ -1,4 +1,3 @@
-#!/usr/bin/python2.7
 from trollop import TrelloConnection
 from auth import *
 
